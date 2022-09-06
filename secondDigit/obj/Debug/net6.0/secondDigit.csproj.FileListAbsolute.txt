@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\bin\Debug\net6.0\secondDigit.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\bin\Debug\net6.0\secondDigit.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\bin\Debug\net6.0\secondDigit.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\bin\Debug\net6.0\secondDigit.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\bin\Debug\net6.0\secondDigit.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\secondDigit.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\secondDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\secondDigit.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\secondDigit.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\secondDigit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\secondDigit.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\refint\secondDigit.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\secondDigit.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\secondDigit.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\secondDigit\obj\Debug\net6.0\ref\secondDigit.dll

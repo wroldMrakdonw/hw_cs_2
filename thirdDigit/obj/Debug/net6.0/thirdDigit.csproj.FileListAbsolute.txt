@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\bin\Debug\net6.0\thirdDigit.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\bin\Debug\net6.0\thirdDigit.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\bin\Debug\net6.0\thirdDigit.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\bin\Debug\net6.0\thirdDigit.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\bin\Debug\net6.0\thirdDigit.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\thirdDigit.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\thirdDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\thirdDigit.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\thirdDigit.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\thirdDigit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\thirdDigit.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\refint\thirdDigit.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\thirdDigit.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\thirdDigit.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_2\hw\thirdDigit\obj\Debug\net6.0\ref\thirdDigit.dll
